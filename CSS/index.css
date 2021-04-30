@@ -10,7 +10,7 @@ nav {
 }
 
 a{
-    color: #fde910;
+    color:#873e23;
     font-size: 20px;
     font-family: "Fira Code", Arial, Helvetica, sans-serif;
     font-weight: 500;
@@ -20,8 +20,8 @@ a{
 
 #button {
     display: inline-block;
-    background-color: #ffd700;
-    color: #2c2c2c;
+    background-color: #873e23;
+    color: #FFF;
     height: 60px;
     line-height: 60px;
     padding-left: 20px;
